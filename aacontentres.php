@@ -1,6 +1,6 @@
 <?php
 	/*
-	*	Plugin Name: AA content res
+	*	Plugin Name: AA Content Res Pro
 	*	Author: A.M/A.R
 	*
 	*
